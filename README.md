@@ -5,6 +5,10 @@ Ann Arbor, Michigan | [Email](mailto:eblackst2@gmail.com) | [LinkedIn](http://ww
 
 Mathematics PhD from the University of Central Florida with six years of postdoctoral experience. Data science and machine learning techniques have been honed by participation in the Erdős Institute data science boot camp and various Kaggle competitions. I am an award-winning educator and researcher with strong communication skills and a proven record of solving difficult problems in applied mathematics. Seeking a position as a Data Scientist or Machine Learning Engineer.
 
+**CITIZENSHIP**
+
+United States of America
+
 **SKILLS & CERTIFICATIONS**
 
 * Languages & Platforms: Python (NumPy, pandas, scikit-learn, matplotlib, seaborn, Optuna), SQL, Mathematica, LaTeX  
