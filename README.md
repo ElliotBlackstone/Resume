@@ -1,5 +1,5 @@
 **Elliot Blackstone, Ph.D.**  
-(724) 713-5460 | Ann Arbor, Michigan | [Email](mailto:eblackst2@gmail.com) | [LinkedIn](http://www.linkedin.com/in/elliot-blackstone-eblackstone) | [github](https://github.com/ElliotBlackstone) | [Google Scholar](https://scholar.google.com/citations?user=fQ1-hU4AAAAJ&hl=en)
+Ann Arbor, Michigan | [Email](mailto:eblackst2@gmail.com) | [LinkedIn](http://www.linkedin.com/in/elliot-blackstone-eblackstone) | [github](https://github.com/ElliotBlackstone) | [Google Scholar](https://scholar.google.com/citations?user=fQ1-hU4AAAAJ&hl=en)
 
 **SUMMARY** 
 
