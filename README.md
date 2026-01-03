@@ -7,7 +7,7 @@ Machine learning engineer with a Ph.D. in mathematics, building end-to-end deep 
 
 **SKILLS & CERTIFICATIONS**
 
-* Programming & Tools: Python (NumPy, pandas, scikit-learn, matplotlib), SQL, LaTeX, Jupyter, Git, Mathematica  
+* Programming & Tools: Python (NumPy, pandas, scikit-learn, matplotlib), SQL, LaTeX, Jupyter, Git, Mathematica, MATLAB  
 * ML & Computer Vision: PyTorch, torchvision, GPU training (CUDA), CNNs, custom object detection models  
 * Tabular ML: XGBoost, LightGBM, CatBoost, Random Forest, linear/logistic regression, Optuna, SHAP, cross validation  
 * Deployment & MLOps: Docker, FastAPI, Google Cloud Platform (Cloud Run)  
